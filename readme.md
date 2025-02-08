@@ -55,3 +55,6 @@
 - Wyszukujemy potrzebną bibliotekę i klikamy `Zainstaluj`
 - Biblioteki instalowane są na komputerze, ale jeśli chcemy dodać je do ESP32-S2, musimy skopiować je na urządzenie
 - Można to zrobić ręcznie, kopiując pliki `.py` do urządzenia
+  
+### Przykład Programu wykonanego z uzyciem esp32 i micropythonem
+ ![](https://github.com/TomaszRainski/esp32s2/blob/main/ss/wifi.gif)
