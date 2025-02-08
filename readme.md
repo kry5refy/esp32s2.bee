@@ -43,3 +43,15 @@
   ![](https://github.com/TomaszRainski/esp32s2/blob/main/ss/print.png)
 - Jeśli otrzymaliśmy odpowiedź, MicroPython został poprawnie zainstalowany na ESP32-S2
 
+### Zapisywanie kodu w Thonny IDE
+
+- Aby zapisać plik, wybieramy `Plik` → `Zapisz jako...`
+- Możemy zapisać plik lokalnie (`Ten komputer`) lub bezpośrednio na ESP32-S2 (`MicroPython device`)
+- Zaleca się zapisywanie głównego pliku jako `main.py`, aby uruchamiał się automatycznie po restarcie
+- Do odczytu plików z ESP32-S2 można używać eksploratora plików w Thonny (`Plik` → `Otwórz` → `MicroPython device`)
+### Dodawanie bibliotek w Thonny IDE
+
+- Aby dodać bibliotekę, otwieramy `Narzędzia` → `Zarządzaj pakietami...`
+- Wyszukujemy potrzebną bibliotekę i klikamy `Zainstaluj`
+- Biblioteki instalowane są na komputerze, ale jeśli chcemy dodać je do ESP32-S2, musimy skopiować je na urządzenie
+- Można to zrobić ręcznie, kopiując pliki `.py` do urządzenia
