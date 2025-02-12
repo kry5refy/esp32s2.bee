@@ -61,4 +61,5 @@
 - Można to zrobić ręcznie, kopiując pliki `.py` do urządzenia
   
 ### Przykład Programu wykonanego z uzyciem esp32 i micropythonem
+- jest to serwer www postawiony w pythonie ktory umozliwia na włączenie i wyłączenie ledy przez wifi
  ![](https://github.com/TomaszRainski/esp32s2/blob/main/ss/wifi.gif)
