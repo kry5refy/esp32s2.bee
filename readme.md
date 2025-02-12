@@ -5,7 +5,7 @@
 - Wybieramy `CP210x Windows Drivers`
   ![](https://github.com/TomaszRainski/esp32s2/blob/main/ss/drivers.png)
 - Wypakujemy pliki i uruchamiamy `CP210xVCPInstaller_x64`
-- Po instalacji otwieramy program, przechodzimy do zakładki "Narzędzia" i wybieramy opcję "Zarządzaj wtyczkami"
+- Po instalacji otwieramy program Thonny, przechodzimy do zakładki "Narzędzia" i wybieramy opcję "Zarządzaj wtyczkami"
 - Wyszukujemy `esptool`  
   ![](https://github.com/TomaszRainski/esp32s2/blob/main/ss/esptool.PNG)
 - Klikamy w pierwszą pozycję na liście wyszukiwania i instalujemy `esptool`. Tak wygląda gotowy `esptool`:  
