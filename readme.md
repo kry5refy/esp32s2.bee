@@ -39,7 +39,7 @@
 - Należy kliknąć przycisk `RST` na ESP i zamknąć okno instalacyjne  
   ![](https://github.com/TomaszRainski/esp32s2/blob/main/ss/po%20instalacji.png)
 - Wrócimy w ten sposób do poprzedniego okna – tutaj wybieramy port do WebREPL i ustawiamy go na ESP32
-- Klikamy "OK" – jeśli wszystko zostało wykonane poprawnie, powinniśmy zobaczyć okno "Powłoka"
+- Klikamy "OK" – jeśli wszystko zostało wykonane poprawnie, powinniśmy zobaczyć okno "Powłoka" na dole ekranu
 - Dla testu wpisujemy:
   ```python
   print("Tu ESP32")
