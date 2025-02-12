@@ -1,6 +1,10 @@
 ### Instalacja MicroPython na ESP32-S2 Mini
 
 - Na początku instalujemy Thonny IDE [Thonny IDE](https://github.com/thonny/thonny/releases)
+- W dodatku musimy zainstalować sterowniki do obsługi esp32 wchodzimy na strone [Silicon Labs](https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads)
+- Wybieramy `CP210x Windows Drivers`
+  ![](https://github.com/TomaszRainski/esp32s2/blob/main/ss/drivers.png)
+- Wypakujemy pliki i uruchamiamy `CP210xVCPInstaller_x64`
 - Po instalacji otwieramy program, przechodzimy do zakładki "Narzędzia" i wybieramy opcję "Zarządzaj wtyczkami"
 - Wyszukujemy `esptool`  
   ![](https://github.com/TomaszRainski/esp32s2/blob/main/ss/esptool.PNG)
